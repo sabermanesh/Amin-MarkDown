@@ -1,4 +1,4 @@
-# AminMD
+# AminMarkDown
 ## 
 ### just for test  
 #### **Programming is too hard**  
