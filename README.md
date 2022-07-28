@@ -15,4 +15,4 @@ Ya ALI[^1]
 
 
 
-[^1]: (https://en.wikipedia.org/wiki/Ali)
+[^1]: (https://en.wikipedia.org/wiki/Shia_view_of_Ali)
